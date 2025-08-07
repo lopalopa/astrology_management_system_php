@@ -1,0 +1,58 @@
+
+/* assets/css/style.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.sidebar {
+    height: 100vh;
+    background-color: #f0f0f0;
+    padding-top: 15px;
+}
+
+.sidebar a {
+    color: #333;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.zodiac-card {
+    transition: transform 0.2s;
+}
+
+.zodiac-card:hover {
+    transform: scale(1.05);
+}
