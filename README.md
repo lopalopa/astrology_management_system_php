@@ -71,7 +71,7 @@ Bootstrap 5
 
 🎥 YouTube Channel
 📺 Watch tutorials and walkthroughs of this project on my channel:
-https://www.youtube.com/@ExcelCodebyRASHMIMAM
+https://www.youtube.com/@WebDevWithRashmiMam
 👉 Don’t forget to Like, Share, and Subscribe!
 
 ## 📝 License
